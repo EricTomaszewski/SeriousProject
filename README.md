@@ -31,7 +31,8 @@ Within the same organisation - all admins and users share the same data by defau
 The default fields for any newsy created organisation with its admins and users are: # and Issue Subject. Any others are Adming for a given organisation dependant.
 Create an admin account that will approve the next users.
 Admin & User will get an email to activate the account that then will be used for login.
-<img width="1183" height="257" alt="image" src="https://github.com/user-attachments/assets/39297dab-f5e9-4646-b427-de19dc0961b9" />
+<img width="1175" height="275" alt="image" src="https://github.com/user-attachments/assets/e31793f6-0b1f-4e46-b097-bc4a7a9c9d6e" />
+
 
 
 
